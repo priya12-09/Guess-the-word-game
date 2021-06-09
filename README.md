@@ -1,1 +1,1 @@
-# Math-quiz
+# guess-the-word-game
